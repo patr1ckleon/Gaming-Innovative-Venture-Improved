@@ -8,7 +8,16 @@
 
    <div align="center">
      Creating a detailed document highlighting important steps in a course then improving the site and altering major functionality.
-     This website features scroll-triggered animations, geometric transitions, and engaging video storytelling. 
+     This website features scroll-triggered animations, geometric transitions, and engaging video storytelling.
+     <br>
+     <br>
+     <p><b>Current Progress:</b></p>
+    <p align="center">
+      <img src="./progress.svg">
+    </p>
+
+
+
      
 <a href="" target="_blank"><b>Link To Website</b></a>
     </div>
